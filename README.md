@@ -1,4 +1,4 @@
-# EarthquakeMachine
+# Earthquake Machine
 ### Bachelor's Thesis by students at NTNU for Nordic Semiconductor.
 *Group members: André L. Nicolaysen, Martin Henriksen Dahl and Stig Kvannli Olsen.*
 
