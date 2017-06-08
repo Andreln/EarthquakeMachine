@@ -1,0 +1,6 @@
+Added Component: Designator=P7(Jack out)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=Signal out Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Pin To Net: NetName=GND Pin=P7-2
+Added Member To Class: ClassName=Resonator filter design Member=Component P7 Jack out

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R?? NewDesignator=R4
+Change Component Designator: OldDesignator=R?? NewDesignator=R5
+Added Member To Class: ClassName=Resonator filter design Member=Component R5 Res2

@@ -1,0 +1,20 @@
+Added Component: Designator=J1(Power input PSU)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.bulgin.co.uk/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "ver.80, 15-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Corresponds to nominal value."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Component Replaced & renamed from "Phonejack"."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaximumRating"; Value = "10A, 250V a.c. (UL & CSA 15A, 250V a.c.)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MountingFixtures"; Value = "Not drawn on schematic symbol."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "ver.80, 15-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PX0675/PC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminations"; Value = "P.C. Spills"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=230V b Pin=J1-1
+Added Pin To Net: NetName=230V a Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=PSU Member=Component J1 Plug AC Female

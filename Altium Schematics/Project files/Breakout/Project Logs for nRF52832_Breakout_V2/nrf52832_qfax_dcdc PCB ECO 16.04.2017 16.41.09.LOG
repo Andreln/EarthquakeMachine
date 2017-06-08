@@ -1,0 +1,5 @@
+Added Component: Designator=J1(Micro_USB_B)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5V+ Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Member To Class: ClassName=Power_management Member=Component J1 Micro_USB_B

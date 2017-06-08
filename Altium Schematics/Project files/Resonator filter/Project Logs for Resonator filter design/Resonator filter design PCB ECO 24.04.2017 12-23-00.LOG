@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=Signal_ut Pin=P7-1
+Removed Pin From Net: NetName=PWM a Pin=R1-1
+Added Component: Designator=J1(Jumper)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(Jumper2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=PWM a Pin=J1-3
+Added Pin To Net: NetName=Active_out Pin=J2-2
+Added Pin To Net: NetName=Signal_ut Pin=J2-3
+Added Pin To Net: NetName=Jack Pin=J2-1
+Added Pin To Net: NetName=Jack Pin=P7-1
+Added Net: Name=Jack
+Added Pin To Net: NetName=Mod Pin=J1-1
+Added Net: Name=Mod
+Added Pin To Net: NetName=PWM ab Pin=J1-2
+Added Pin To Net: NetName=PWM ab Pin=R1-1
+Added Net: Name=PWM ab
+Added Member To Class: ClassName=Resonator filter design Member=Component J1 Jumper
+Added Member To Class: ClassName=Resonator filter design Member=Component J2 Jumper 2

@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [PSU.PcbDoc]
+   Generated File[PSU.GTL]
+   Generated File[PSU.GBL]
+   Generated File[PSU.GPB]
+   Generated File[PSU.GPT]
+   Generated File[PSU.GTO]
+   Generated File[PSU.GTS]
+   Generated File[PSU.GBS]
+   Generated File[PSU.GKO]
+   Generated File[PSU.GM1]
+   Generated File[PSU.GD1]
+   Generated File[PSU.RUL]
+   Generated File[PSU.EXTREP]
+   Generated File[PSU.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 23.19.14 On 06.04.2017

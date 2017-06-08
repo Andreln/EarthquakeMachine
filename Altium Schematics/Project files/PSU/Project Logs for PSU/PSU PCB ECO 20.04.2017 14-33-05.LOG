@@ -1,0 +1,7 @@
+Added Component: Designator=T1(Transformator)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=230V a2 Pin=T1-1
+Added Pin To Net: NetName=230V b Pin=T1-2
+Added Pin To Net: NetName=24V a Pin=T1-3
+Added Pin To Net: NetName=24V b Pin=T1-4
+Added Member To Class: ClassName=PSU Member=Component T1 Transformer

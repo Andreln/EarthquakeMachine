@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:41:28 On 25.04.2017
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [Resonator filter design.PcbDoc]
+   Generated File[Resonator filter design.GTL]
+   Generated File[Resonator filter design.GBL]
+   Generated File[Resonator filter design.GPB]
+   Generated File[Resonator filter design.GPT]
+   Generated File[Resonator filter design.GTO]
+   Generated File[Resonator filter design.GTS]
+   Generated File[Resonator filter design.GBS]
+   Generated File[Resonator filter design.GKO]
+   Generated File[Resonator filter design.GM1]
+   Generated File[Resonator filter design.GD1]
+   Generated File[Resonator filter design.GG1]
+   Generated File[Resonator filter design.RUL]
+   Generated File[Resonator filter design.EXTREP]
+   Generated File[Resonator filter design.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 12:41:29 On 25.04.2017

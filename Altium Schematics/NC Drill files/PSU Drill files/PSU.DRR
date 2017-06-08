@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PSU.PcbDoc   26.04.2017  09:24:41
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PSU.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.7mm)                                             Round             8         PTH        2.20inch (55.80mm)
+T2      28mil (0.711mm)                                           Round             13        PTH        11.06inch (280.82mm)
+T3      30mil (0.762mm)                                           Round             8         PTH        3.61inch (91.66mm)
+T4      32mil (0.8mm)                                             Round             2         PTH        0.20inch (5.00mm)
+T5      39mil (1mm)                                               Round             12        PTH        9.52inch (241.82mm)
+T6      47mil (1.2mm)                                             Round             10        PTH        3.17inch (80.41mm)
+T7      51mil (1.3mm)                                             Round             2         PTH        0.87inch (22.00mm)
+T8      79mil (2mm)                                               Round             2         PTH        0.52inch (13.14mm)
+T9      126mil (3.2mm)                                            Round             5         PTH        7.65inch (194.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              62
+
+Total Processing Time (hh:mm:ss) : 00:00:00

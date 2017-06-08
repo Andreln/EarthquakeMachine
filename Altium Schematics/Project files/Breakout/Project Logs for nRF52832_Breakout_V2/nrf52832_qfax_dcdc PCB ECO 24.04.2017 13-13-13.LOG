@@ -1,0 +1,5 @@
+Added Component: Designator=S1(Switch)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.7V a Pin=S1-1
+Added Pin To Net: NetName=3.7V b Pin=S1-2
+Added Member To Class: ClassName=Power_management Member=Component S1 Switch

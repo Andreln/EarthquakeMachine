@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=IN- Pin=U1-2
+Added Net: Name=IN-
+Added Member To Class: ClassName=Resonator filter design Member=Component R3 earth coupling

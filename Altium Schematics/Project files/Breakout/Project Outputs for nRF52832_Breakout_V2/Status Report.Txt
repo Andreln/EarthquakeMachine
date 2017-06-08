@@ -1,0 +1,32 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:48:02 On 25.04.2017
+
+Output: Gerber Files Breakout
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [nrf52832_qfax_dcdc.PcbDoc]
+   Generated File[nrf52832_qfax_dcdc.GTL]
+   Generated File[nrf52832_qfax_dcdc.GBL]
+   Generated File[nrf52832_qfax_dcdc.GPB]
+   Generated File[nrf52832_qfax_dcdc.GPT]
+   Generated File[nrf52832_qfax_dcdc.GTO]
+   Generated File[nrf52832_qfax_dcdc.GTP]
+   Generated File[nrf52832_qfax_dcdc.GTS]
+   Generated File[nrf52832_qfax_dcdc.GBS]
+   Generated File[nrf52832_qfax_dcdc.GKO]
+   Generated File[nrf52832_qfax_dcdc.GM1]
+   Generated File[nrf52832_qfax_dcdc.GM3]
+   Generated File[nrf52832_qfax_dcdc.GM7]
+   Generated File[nrf52832_qfax_dcdc.GM13]
+   Generated File[nrf52832_qfax_dcdc.GM15]
+   Generated File[nrf52832_qfax_dcdc.GD1]
+   Generated File[nrf52832_qfax_dcdc.GG1]
+   Generated File[nrf52832_qfax_dcdc.RUL]
+   Generated File[nrf52832_qfax_dcdc.EXTREP]
+   Generated File[nrf52832_qfax_dcdc.REP]
+
+
+Files Generated   : 19
+Documents Printed : 0
+
+Finished Output Generation At 12:48:04 On 25.04.2017

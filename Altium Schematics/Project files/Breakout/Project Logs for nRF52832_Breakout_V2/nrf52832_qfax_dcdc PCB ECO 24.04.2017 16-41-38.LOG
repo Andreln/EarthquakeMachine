@@ -1,0 +1,11 @@
+Added Component: Designator=J3(Accel_shield)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=P0.03/AIN1 Pin=J3-1
+Added Pin To Net: NetName=P0.03/AIN1 Pin=J3-1
+Added Pin To Net: NetName=P0.04/AIN2 Pin=J3-2
+Added Pin To Net: NetName=P0.04/AIN2 Pin=J3-2
+Added Pin To Net: NetName=VDD_NRF Pin=J3-3
+Added Pin To Net: NetName=VDD_NRF Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Member To Class: ClassName=Power_management Member=Component J3 Accel_shield_MPU9250

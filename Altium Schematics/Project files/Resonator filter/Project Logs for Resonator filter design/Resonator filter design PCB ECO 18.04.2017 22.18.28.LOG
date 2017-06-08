@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=R3-2
+Change Component Comment : Designator=P2 Old Comment=P2 New Comment=6x1 8.5mm header
+Change Component Comment : Designator=P3 Old Comment=P3 New Comment=8x1 8.5mm header
+Change Component Comment : Designator=P4 Old Comment=P4 New Comment=10x1 8.5mm header
+Change Component Comment : Designator=P1 Old Comment=POWER P1 New Comment=8x1 8.5mm header
+Change Component Comment : Designator=P6 Old Comment=Power Supply New Comment=Power Supply 3x1 header
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=Filter R1
+Change Component Comment : Designator=R2 Old Comment=Res2 New Comment=Filter R2
+Change Net Name : Old Net Name=PSU GND New Net Name=NetP6_2
+Change Net Name : Old Net Name=PWM c New Net Name=NetC2_2

@@ -1,0 +1,5 @@
+Added Component: Designator=J?(Bat_con)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.7V Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Member To Class: ClassName=Power_management Member=Component J? Accel_shield_MPU9250

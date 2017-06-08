@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=P4-7
+Added Pin To Net: NetName=Signal out Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=PWM c Pin=U1-3
+Added Pin To Net: NetName=-5V Pin=U1-4
+Added Pin To Net: NetName=G0 Pin=U1-5
+Added Pin To Net: NetName=G1 Pin=U1-6
+Added Pin To Net: NetName=G2 Pin=U1-7
+Added Pin To Net: NetName=+5V Pin=U1-8

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=R3-2
+Added Component: Designator=U1(Op-Amp UA741CP)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Resonator filter design Member=Component U1 Op_Amp UA741CP

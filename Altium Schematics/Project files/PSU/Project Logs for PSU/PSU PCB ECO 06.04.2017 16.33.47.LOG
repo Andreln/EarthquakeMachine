@@ -1,0 +1,5 @@
+Added Component: Designator=P1(USB out)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=DC 5V Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=PSU Member=Component P1 USB out

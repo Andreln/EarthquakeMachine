@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Member From Class: ClassName=Resonator filter design Member=C5
+Removed Member From Class: ClassName=Resonator filter design Member=C6
+Removed Member From Class: ClassName=Resonator filter design Member=C7
+Removed Member From Class: ClassName=Resonator filter design Member=R3
+Removed Member From Class: ClassName=Resonator filter design Member=R4
+Removed Member From Class: ClassName=Resonator filter design Member=R5
